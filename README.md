@@ -1,11 +1,13 @@
 # Flatcraft+
 
+Minicraft+ Flatpak Edition.
+
 > [!NOTE]
 > The original README is available at [/README.md.old](/README.md.old)
 
-Minicraft+ Flatpak Edition.
-
-Vibecoded into a Flatpak format.
+> [!WARNING]
+> Fully vibecoded into a Flatpak format.
+> None of the commands really work.
 
 ## Install
 
