@@ -1,4 +1,4 @@
-# Flatcraft+
+# Flatcraft
 
 Minicraft+ Flatpak Edition.
 
@@ -6,7 +6,7 @@ Minicraft+ Flatpak Edition.
 > The original README is available at [/README.md.old](/README.md.old)
 
 > [!WARNING]
-> Fully vibecoded into a Flatpak format. None of the commands really work. I don't do Flatpak and I won't pretend I do.
+> Fully vibecoded into a Flatpak. All of the commands below eventually got it working, but not all of them are probably necessary. I don't do Flatpak and I won't pretend I do. This was just a cool idea I had and ChatGPT said yeah it's doable, so "I did."
 
 ## Install
 
